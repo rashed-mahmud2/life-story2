@@ -1,5 +1,7 @@
 The name of my cournty is Bangladeh. 
 There are many river in my country.
 I have completed my hse in 2020.
-I have completed my bse in 2016
-I have completed my mse in 2025 
+I have completed my bse in 2023
+I have completed my mse in 2025
+I have started my full-stack web development job 2021 
+
